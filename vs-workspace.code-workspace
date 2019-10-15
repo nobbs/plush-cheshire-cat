@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/alex/.platformio/penv/bin:/home/alex/.platformio/penv:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/snap/bin:/home/alex/.local/bin/:/home/alex/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/alex/.dotnet/tools:/home/alex/.antigen/bundles/robbyrussell/oh-my-zsh/lib:/home/alex/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git:/home/alex/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/history:/home/alex/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/extract:/home/alex/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/colored-man-pages:/home/alex/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found:/home/alex/.antigen/bundles/zsh-users/zsh-syntax-highlighting:/home/alex/.antigen/bundles/zsh-users/zsh-completions:/home/alex/.antigen/bundles/rupa/z:/home/alex/.fzf/bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}

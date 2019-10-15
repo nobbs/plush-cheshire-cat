@@ -1,0 +1,13 @@
+- push button:
+    - wire1: 5v vcc of arduino
+    - wire2 <-> pull-down resistor 10k <-> ground of arduino
+            <-> interupt-pin (d2 or d3) of arduino
+    
+- leds:
+    - wire1: d6 of arduino (data out) <-> 470k resistor <-> data in of led strip
+    - wire2: 5v of arduino <-> pos. leg of 1000muF cap. <-> 5v of led strip
+    - wire3: gnd of arduino <-> neg. leg of cap (white band) <-> gnd of led strip
+
+refs:
+https://circuitdigest.com/microcontroller-projects/arduino-interrupt-tutorial-with-examples
+http://www.gammon.com.au/power
